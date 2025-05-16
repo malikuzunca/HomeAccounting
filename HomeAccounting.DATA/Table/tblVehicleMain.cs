@@ -12,7 +12,6 @@ namespace HomeAccounting.DATA.Table
     {
         [Key]
         public int VehicleID { get; set; }
-        public int ExpenseID { get; set; }
         public int Arrangement { get; set; }
         public string VehicleName { get; set; }
         public string Brand { get; set; }
