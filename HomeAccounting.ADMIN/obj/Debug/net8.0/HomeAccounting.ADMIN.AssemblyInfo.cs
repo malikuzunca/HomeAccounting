@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomeAccounting.ADMIN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a469e22e507d2204b54855f1cb7725d30232311f")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomeAccounting.ADMIN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomeAccounting.ADMIN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

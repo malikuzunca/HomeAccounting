@@ -1,0 +1,13 @@
+C:\Users\Malik Uzunca\source\repos\HomeAccounting\HomeAccounting.DATA\bin\Debug\net8.0\HomeAccounting.DATA.deps.json
+C:\Users\Malik Uzunca\source\repos\HomeAccounting\HomeAccounting.DATA\bin\Debug\net8.0\HomeAccounting.DATA.dll
+C:\Users\Malik Uzunca\source\repos\HomeAccounting\HomeAccounting.DATA\bin\Debug\net8.0\HomeAccounting.DATA.pdb
+C:\Users\Malik Uzunca\source\repos\HomeAccounting\HomeAccounting.DATA\obj\Debug\net8.0\HomeAccounting.DATA.csproj.AssemblyReference.cache
+C:\Users\Malik Uzunca\source\repos\HomeAccounting\HomeAccounting.DATA\obj\Debug\net8.0\HomeAccounting.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malik Uzunca\source\repos\HomeAccounting\HomeAccounting.DATA\obj\Debug\net8.0\HomeAccounting.DATA.AssemblyInfoInputs.cache
+C:\Users\Malik Uzunca\source\repos\HomeAccounting\HomeAccounting.DATA\obj\Debug\net8.0\HomeAccounting.DATA.AssemblyInfo.cs
+C:\Users\Malik Uzunca\source\repos\HomeAccounting\HomeAccounting.DATA\obj\Debug\net8.0\HomeAccounting.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Malik Uzunca\source\repos\HomeAccounting\HomeAccounting.DATA\obj\Debug\net8.0\HomeAccounting.DATA.sourcelink.json
+C:\Users\Malik Uzunca\source\repos\HomeAccounting\HomeAccounting.DATA\obj\Debug\net8.0\HomeAccounting.DATA.dll
+C:\Users\Malik Uzunca\source\repos\HomeAccounting\HomeAccounting.DATA\obj\Debug\net8.0\refint\HomeAccounting.DATA.dll
+C:\Users\Malik Uzunca\source\repos\HomeAccounting\HomeAccounting.DATA\obj\Debug\net8.0\HomeAccounting.DATA.pdb
+C:\Users\Malik Uzunca\source\repos\HomeAccounting\HomeAccounting.DATA\obj\Debug\net8.0\ref\HomeAccounting.DATA.dll
