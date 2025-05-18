@@ -48,6 +48,13 @@ appsettings.json veya App.config içindeki bağlantı dizesini yapılandırın
 
 Geliştirme ortamınızda çalıştırın
 
+## 📦 Veritabanı Kurulumu
+
+1. `Database/SQL.sql` dosyasını açın.
+2. SQL Server Management Studio (SSMS) ile yeni bir veritabanı oluşturun.
+3. Scripti çalıştırarak tablo ve verileri oluşturun.
+
+
 🗓️ Yol Haritası
  Proje iskeleti oluşturuldu
 
